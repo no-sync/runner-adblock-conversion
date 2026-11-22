@@ -1,5 +1,4 @@
 https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/light-onlydomains.txt
-https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/pro.mini-onlydomains.txt
 https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/tif.mini-onlydomains.txt
 https://raw.githubusercontent.com/Flo5k5/proxyware-blocklist/refs/heads/main/proxyware-domains.txt
 https://raw.githubusercontent.com/no-sync/adblock-filters/refs/heads/main/blacklist_domain.txt
